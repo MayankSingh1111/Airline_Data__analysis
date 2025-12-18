@@ -1,4 +1,4 @@
-# ✈️ Flight Price Analysis with Python
+# ✈️ Airline Price Analysis with Python
 
 This project analyzes flight pricing data to uncover trends in how various features such as airline, travel class, number of stops, and booking window impact ticket prices. It includes data cleaning, exploratory analysis, and visualization using Python in Jupyter Notebook.
 
